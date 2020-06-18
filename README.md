@@ -1,2 +1,2 @@
 # go-netdisk
-lightweight netdisk developed by Go
+tiny netdisk developed by Go.
